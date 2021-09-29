@@ -1,11 +1,11 @@
 The Game Simulation
 -------------------
 
-### ← Is open-source short simulation
-You can do whatever you want with it.
+### ← Open-source
+The Game Simulation is open-source. You can do whatever you want with it.
 
-### ← Is a 'fighter game'
-Simulation about fights. 
+### ← 'fighter game'
+Simulation about fights.
 
 ### ← Just check it out!
 Go on!
