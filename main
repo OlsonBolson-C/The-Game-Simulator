@@ -3,6 +3,7 @@
 // → GitHub: [OlsonBolson](https://github.com/OlsonBolson-net)   //
 // → Discord: OlsonBolson#7879                                   //
 //---------------------------------------------------------------//
+
     using System;
     using System.Collections.Generic;
     using System.Linq;
