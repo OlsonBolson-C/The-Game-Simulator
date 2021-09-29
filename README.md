@@ -10,7 +10,6 @@ Simulation about fights.
 ### ← Just check it out!
 Go on!
 
-Made by OlsonBolson: ◕‿↼        
+Made by OlsonBolson:    
  → GitHub: [OlsonBolson](https://github.com/OlsonBolson-net)    
- → Discord: OlsonBolson#7879    
-       
+ → Discord: OlsonBolson#7879
