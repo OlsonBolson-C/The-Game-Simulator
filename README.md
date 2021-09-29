@@ -2,7 +2,7 @@ The Game Simulation
 -------------------
 
 ### ← Open-source
-The Game Simulation is open-source. You can do whatever you want with it.
+The Game Simulation is open-source.
 
 ### ← 'fighter game'
 Simulation about fights.
