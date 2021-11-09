@@ -4,8 +4,8 @@ The Game Simulation
 ### ← Open-source
 The Game Simulation is open-source.
 
-### ← 'fighter game'
-Simulation about fights.
+### ← Fighter
+Simulation about random fights.
 
 ### ← Just check it out!
 Go on!
