@@ -1,6 +1,6 @@
 //---------------------------------------------------------------//
-// Made by OlsonBolson:                                          //
-// → GitHub: [OlsonBolson](https://github.com/OlsonBolson-net)   //
+// Made by OlsonBolson                                           //
+// → GitHub: [OlsonBolson](https://github.com/OlsonBolson-C)     //
 // → Discord: OlsonBolson#7879                                   //
 //---------------------------------------------------------------//
 
@@ -167,7 +167,7 @@
 }
 
 //---------------------------------------------------------------//
-// Made by OlsonBolson:                                          //
-// → GitHub: [OlsonBolson](https://github.com/OlsonBolson-net)   //
+// Made by OlsonBolson                                           //
+// → GitHub: [OlsonBolson](https://github.com/OlsonBolson-C)     //
 // → Discord: OlsonBolson#7879                                   //
 //---------------------------------------------------------------//
