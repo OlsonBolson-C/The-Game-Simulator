@@ -1,15 +1,18 @@
-The Game Simulation
--------------------
+# The Game Simulation
+![](https://img.shields.io/github/license/OlsonBolson-C/The-Game-Simulator)
+![](https://img.shields.io/github/last-commit/OlsonBolson-C/The-Game-Simulator)
 
-### ← Open-source
+## Decription
+
+- Open-source <br>
 The Game Simulation is open-source.
 
-### ← Fighter
+- Fighting-game <br>
 Simulation about random fights.
 
-### ← Just check it out!
+- Just check it out! <br>
 Go on!
 
-Made by OlsonBolson:    
- → GitHub: [OlsonBolson](https://github.com/OlsonBolson-net)    
+Made by OlsonBolson: <br> 
+ → GitHub: [OlsonBolson](https://github.com/OlsonBolson-C) <br>
  → Discord: OlsonBolson#7879
