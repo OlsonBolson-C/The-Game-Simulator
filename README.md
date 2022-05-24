@@ -4,13 +4,13 @@
 
 ## Decription
 
-- Open-source <br>
+- **Open-source** <br>
 The Game Simulation is open-source.
 
-- Fighting-game <br>
+- **Fighting-game** <br>
 Simulation about random fights.
 
-- Just check it out! <br>
+- **Just check it out!** <br>
 Go on!
 
 Made by OlsonBolson: <br> 
