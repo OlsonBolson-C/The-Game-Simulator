@@ -1,6 +1,6 @@
 # The Game Simulation
-![](https://img.shields.io/github/license/OlsonBolson-C/The-Game-Simulator)
-![](https://img.shields.io/github/last-commit/OlsonBolson-C/The-Game-Simulator)
+![](https://img.shields.io/github/license/OlsonBolson-py/The-Game-Simulator)
+![](https://img.shields.io/github/last-commit/OlsonBolson-py/The-Game-Simulator)
 
 ## Decription
 
@@ -14,5 +14,5 @@ Simulation about random fights.
 Go on!
 
 Made by OlsonBolson: <br> 
- → GitHub: [OlsonBolson](https://github.com/OlsonBolson-C) <br>
+ → GitHub: [OlsonBolson](https://github.com/OlsonBolson-py) <br>
  → Discord: OlsonBolson#7879
