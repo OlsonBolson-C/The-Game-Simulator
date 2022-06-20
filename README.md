@@ -15,4 +15,4 @@ Go on!
 
 Made by OlsonBolson: <br> 
  → GitHub: [OlsonBolson](https://github.com/OlsonBolson-py) <br>
- → Discord: OlsonBolson#7879
+ → Discord: [OlsonBolson#7879](https://discord.com/users/444131047316389888)
